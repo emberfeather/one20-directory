@@ -1,46 +1,46 @@
 {
 	"plugins": {
 		"admin": {
-			"versionUrl": "http://github.com/emberfeather/algid-admin/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-admin/raw/master/version.json"
 		},
 		"api": {
-			"versionUrl": "http://github.com/emberfeather/algid-api/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-api/raw/master/version.json"
 		},
 		"content": {
-			"versionUrl": "http://github.com/emberfeather/algid-content/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-content/raw/master/version.json"
 		},
 		"content-scm": {
-			"versionUrl": "http://github.com/emberfeather/algid-content-scm/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-content-scm/raw/master/version.json"
 		},
 		"documentation": {
-			"versionUrl": "http://github.com/emberfeather/algid-documentation/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-documentation/raw/master/version.json"
 		},
 		"error": {
-			"versionUrl": "http://github.com/emberfeather/algid-error/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-error/raw/master/version.json"
 		},
 		"i18n": {
-			"versionUrl": "http://github.com/emberfeather/algid-i18n/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-i18n/raw/master/version.json"
 		},
 		"plugins": {
-			"versionUrl": "http://github.com/emberfeather/algid-plugins/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-plugins/raw/master/version.json"
 		},
 		"security": {
-			"versionUrl": "http://github.com/emberfeather/algid-security/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-security/raw/master/version.json"
 		},
 		"tagger": {
-			"versionUrl": "http://github.com/emberfeather/algid-tagger/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-tagger/raw/master/version.json"
 		},
 		"tracker": {
-			"versionUrl": "http://github.com/emberfeather/algid-tracker/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-tracker/raw/master/version.json"
 		},
 		"user": {
-			"versionUrl": "http://github.com/emberfeather/algid-user/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-user/raw/master/version.json"
 		},
 		"user-openid": {
-			"versionUrl": "http://github.com/emberfeather/algid-user-openid/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-user-openid/raw/master/version.json"
 		},
 		"widget": {
-			"versionUrl": "http://github.com/emberfeather/algid-widget/raw/master/version.json"
+			"versionUrl": "https://github.com/emberfeather/algid-widget/raw/master/version.json"
 		}
 	}
 }
