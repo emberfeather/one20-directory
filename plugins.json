@@ -9,23 +9,35 @@
 		"content": {
 			"versionUrl": "https://github.com/emberfeather/algid-content/raw/master/version.json"
 		},
-		"content-scm": {
-			"versionUrl": "https://github.com/emberfeather/algid-content-scm/raw/master/version.json"
-		},
 		"documentation": {
 			"versionUrl": "https://github.com/emberfeather/algid-documentation/raw/master/version.json"
 		},
 		"error": {
 			"versionUrl": "https://github.com/emberfeather/algid-error/raw/master/version.json"
 		},
+		"google": {
+			"versionUrl": "https://github.com/emberfeather/algid-google/raw/master/version.json"
+		},
 		"i18n": {
 			"versionUrl": "https://github.com/emberfeather/algid-i18n/raw/master/version.json"
+		},
+		"mongodb": {
+			"versionUrl": "https://github.com/emberfeather/algid-mongodb/raw/master/version.json"
+		},
+		"parser": {
+			"versionUrl": "https://github.com/emberfeather/algid-parser/raw/master/version.json"
 		},
 		"plugins": {
 			"versionUrl": "https://github.com/emberfeather/algid-plugins/raw/master/version.json"
 		},
+		"scm": {
+			"versionUrl": "https://github.com/emberfeather/algid-scm/raw/master/version.json"
+		},
 		"security": {
 			"versionUrl": "https://github.com/emberfeather/algid-security/raw/master/version.json"
+		},
+		"survey": {
+			"versionUrl": "https://github.com/emberfeather/algid-survey/raw/master/version.json"
 		},
 		"tagger": {
 			"versionUrl": "https://github.com/emberfeather/algid-tagger/raw/master/version.json"
