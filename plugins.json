@@ -33,6 +33,9 @@
 		"scm": {
 			"versionUrl": "https://github.com/emberfeather/algid-scm/raw/master/version.json"
 		},
+		"search": {
+			"versionUrl": "https://github.com/emberfeather/algid-search/raw/master/version.json"
+		},
 		"security": {
 			"versionUrl": "https://github.com/emberfeather/algid-security/raw/master/version.json"
 		},
