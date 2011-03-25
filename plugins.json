@@ -1,5 +1,8 @@
 {
 	"plugins": {
+		"account": {
+			"versionUrl": "https://github.com/emberfeather/algid-account/raw/master/version.json"
+		},
 		"admin": {
 			"versionUrl": "https://github.com/emberfeather/algid-admin/raw/master/version.json"
 		},
@@ -8,6 +11,9 @@
 		},
 		"content": {
 			"versionUrl": "https://github.com/emberfeather/algid-content/raw/master/version.json"
+		},
+		"cron": {
+			"versionUrl": "https://github.com/emberfeather/algid-cron/raw/master/version.json"
 		},
 		"documentation": {
 			"versionUrl": "https://github.com/emberfeather/algid-documentation/raw/master/version.json"
