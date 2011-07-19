@@ -21,6 +21,9 @@
 		"documentation": {
 			"versionUrl": "https://github.com/emberfeather/algid-documentation/raw/master/version.json"
 		},
+		"editor": {
+			"versionUrl": "https://github.com/emberfeather/algid-editor/raw/master/version.json"
+		},
 		"error": {
 			"versionUrl": "https://github.com/emberfeather/algid-error/raw/master/version.json"
 		},
