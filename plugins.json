@@ -42,6 +42,9 @@
 		"plugins": {
 			"versionUrl": "https://github.com/emberfeather/algid-plugins/raw/master/version.json"
 		},
+		"postmark": {
+			"versionUrl": "https://github.com/emberfeather/algid-postmark/raw/master/version.json"
+		},
 		"scm": {
 			"versionUrl": "https://github.com/emberfeather/algid-scm/raw/master/version.json"
 		},
