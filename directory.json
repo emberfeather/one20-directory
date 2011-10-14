@@ -72,5 +72,16 @@
 		"widget": {
 			"versionUrl": "https://github.com/emberfeather/algid-widget/raw/master/version.json"
 		}
+	},
+	"projects": {
+		"cf-compendium": {
+			"versionUrl": "https://github.com/emberfeather/cf-compendium/raw/master/version.json"
+		},
+		"algid": {
+			"versionUrl": "https://github.com/emberfeather/algid/raw/master/version.json"
+		},
+		"mongo4cf": {
+			"versionUrl": "https://github.com/emberfeather/mongo4cf/raw/master/version.json"
+		}
 	}
 }
