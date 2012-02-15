@@ -9,6 +9,9 @@
 		"api": {
 			"versionUrl": "https://github.com/emberfeather/algid-api/raw/master/version.json"
 		},
+		"backup": {
+			"versionUrl": "https://github.com/emberfeather/algid-backup/raw/master/version.json"
+		},
 		"chart": {
 			"versionUrl": "https://github.com/emberfeather/algid-chart/raw/master/version.json"
 		},
